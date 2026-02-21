@@ -27,7 +27,7 @@ A high-performance, fully responsive, and buttery-smooth image slider built with
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/minimal-image-slider.git](https://github.com/your-username/minimal-image-slider.git)
+    git clone (https://github.com/mz-webdev/Syntecxhub_Img_Slider.git)
     ```
 2.  **Open the file:**
     Just open `index.html` in your favorite browser.
